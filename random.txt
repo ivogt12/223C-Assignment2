@@ -1,0 +1,26 @@
+c key) used for ensured authenticity, Asymmetrical(both parties have public and private key),
+- access control- principle of least-priveleged, role-delegation with database,
+
+Software Development
+- Agile Architecture= flexible, iterative, collaborative, minimalist, BFS, code maintability, stakeholders involved, Go, No Go
+- frameworks= waterfall(linear/sequential, operates in phases that can't be revisited), Kanban(Agile)(visual, todos, work items based on capacity and demand), Extreme Programming(Agile)(thinking from customer perspective, design occurs before and after coding, continuous testing, pair programming, keep it simple), Devops(continuous development that works with operations, COLLABORATION, constant integration, automation, and delivery)
+
+
+General Assembly Software Engineering
+- interest in software development and problem solving
+- wanted an opportunity to immerse myself in writing code everyday, even though it was less centered on my career goals
+- contributed to my versatility and resourcefulness in learning new technologies and tools. Helped me to focus on HOW to learn
+
+Advisor recommended that i take software development
+- curios about which development cycle
+
+if engineers, ask about their path=> ask
+
+Data structures
+- dynamic memory= assigning the memory space during exec time
+	ex: stack: recursion, heap: pushing elements 
+- pre-order traversal= visit then recurse
+- post-order traversal= recurse then visit
+- BFS= levels
+- DFS= computes min spanning tree
+- 
